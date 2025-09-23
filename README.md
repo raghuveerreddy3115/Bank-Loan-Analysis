@@ -56,6 +56,3 @@ The project leverages **Power BI, SQL, Python, Tableau, and Excel** to build int
 - Improved accuracy of credit risk insights by **25%** after SQL-based data cleaning  
 - Enhanced portfolio quality assessment by **15%** through segmentation analysis  
 
----
-
-## 📂 Repository Structure  
