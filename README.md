@@ -47,7 +47,7 @@ The project leverages **Power BI, SQL, Python, Tableau, and Excel** to build int
 4. **Business Insights**  
    - Identified loan origination & repayment patterns  
    - Highlighted **high-risk credit segments**  
-   - Provided customer-level insights for **portfolio quality improvement**  
+   - Provided customer-level insights for **portfolio quality improvement**
 
 ---
 
